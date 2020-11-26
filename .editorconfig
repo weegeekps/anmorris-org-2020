@@ -1,0 +1,11 @@
+# SPDX-FileCopyrightText: 2020 Adam N. Morris
+#
+# SPDX-License-Identifier: CC0-1.0
+
+[*]
+end_of_line = lf
+insert_final_newline = true
+
+[*.{js,ts,jsx,tsx,html,css,scss}]
+indent_size = 2
+indent_style = space

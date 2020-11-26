@@ -1,3 +1,7 @@
+# SPDX-FileCopyrightText: 2020 Adam N. Morris
+#
+# SPDX-License-Identifier: MIT
+
 # The URL the site will be built for
 base_url = "https://anmorris.org"
 

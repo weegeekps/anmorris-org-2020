@@ -1,0 +1,10 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: anmorris.org
+Upstream-Contact: Adam N. Morris <adam@kernelpanicstudios.com>
+Source: https://anmorris.org
+
+# Sample paragraph, commented out:
+#
+# Files: src/*
+# Copyright: $YEAR $NAME <$CONTACT>
+# License: ...
